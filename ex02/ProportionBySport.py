@@ -1,4 +1,4 @@
-# I M P O R T A N T: Execute from sub directory with:
+# I M P O R T A N T: Execute from parent directory with:
 # python -m ex02.ProportionBySport
 import pandas as pd
 from ex00.FileLoader import FileLoader
