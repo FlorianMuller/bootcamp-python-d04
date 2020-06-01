@@ -1,4 +1,5 @@
-# I M P O R T A N T: Execute from sub directory with `python -m ex01.YoungestFellah`
+# I M P O R T A N T: Execute from sub directory with:
+# python -m ex01.YoungestFellah
 import pandas as pd
 from ex00.FileLoader import FileLoader
 
